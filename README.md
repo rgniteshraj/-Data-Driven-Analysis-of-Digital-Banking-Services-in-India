@@ -240,11 +240,11 @@ Data-Driven-Digital-Banking-Analysis/
 
 ### Dashboard 1
 
-![Dashboard 1](Images/Dashboard_Page1.png)
+![Dashboard 1]("C:\Users\rgnit\Downloads\IMAGES\FIRST PAGE.png")
 
 ### Dashboard 2
 
-![Dashboard 2](Images/Dashboard_Page2.png)
+![Dashboard 2]("C:\Users\rgnit\Downloads\IMAGES\SECOND PAGE.png")
 
 ---
 
