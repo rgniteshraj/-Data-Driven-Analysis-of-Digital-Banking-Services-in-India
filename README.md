@@ -234,9 +234,7 @@ Data-Driven-Digital-Banking-Analysis/
 
 ---
 
-# 📷 Dashboard Preview
-
-> Add screenshots of your Power BI dashboards here.
+## 📷 Dashboard Preview
 
 ### Dashboard 1
 
