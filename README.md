@@ -238,13 +238,13 @@ Data-Driven-Digital-Banking-Analysis/
 
 ## Page 1 – Banking Infrastructure Overview
 
-![Page 1](Images/Dashboard_Page1.png)
+![Page 1](IMAGES/Dashboard_Page1.png)
 
 ---
 
 ## Page 2 – Digital Banking Analysis & Business Insights
 
-![Page 2](Images/Dashboard_Page2.png)
+![Page 2](IMAGES/Dashboard_Page2.png)
 
 # 📌 Conclusion
 
