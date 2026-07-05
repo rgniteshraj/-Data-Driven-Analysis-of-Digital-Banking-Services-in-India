@@ -234,20 +234,17 @@ Data-Driven-Digital-Banking-Analysis/
 
 ---
 
-## 📷 Dashboard Preview
+# 📊 Power BI Dashboard
 
-### Dashboard 1
+## Page 1 – Banking Infrastructure Overview
 
-![Dashboard 1](Images/Dashboard_Page1.png)
-
-### Dashboard 2
-
-![Dashboard 2](Images/Dashboard_Page2.png)
+![Page 1](Images/Dashboard_Page1.png)
 
 ---
 
+## Page 2 – Digital Banking Analysis & Business Insights
 
----
+![Page 2](Images/Dashboard_Page2.png)
 
 # 📌 Conclusion
 
