@@ -202,9 +202,7 @@ Data-Driven-Digital-Banking-Analysis/
 │   └── digital_banking_cleaned.csv
 │
 ├── Python/
-│   ├── Data_Cleaning.ipynb
-│   ├── EDA.ipynb
-│   └── Visualizations.ipynb
+│   ├── Data-Driven Analysis of Digital Banking Services in India.ipynb
 │
 ├── PowerBI/
 │   └── Digital_Banking_Dashboard.pbix
