@@ -253,4 +253,4 @@ This project demonstrates an end-to-end data analytics workflow using Python and
 ## Author
 **Nitesh Raj R G**  
 - Data Analyst
-- Skills: Excel, SQL, Python, Data Visualization
+- Skills: Excel, SQL, Python, POWERBI
